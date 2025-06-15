@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy MegaLuc</h1>
-<h3 align="center">Un apasionado desarrollador buscando su pasión principal...</h3>
+<h3 align="center">Un desarrollador buscando su pasión principal...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megaluc-dev&label=Visitas&color=09bb27&style=plastic" alt="megaluc-dev" /> </p>
 
